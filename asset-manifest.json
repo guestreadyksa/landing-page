@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13e55f77.css",
+    "main.js": "/static/js/main.2c445449.js",
+    "static/js/787.36d54bfe.chunk.js": "/static/js/787.36d54bfe.chunk.js",
+    "static/media/MainImage.svg": "/static/media/MainImage.696b0ca9f05e706c2a13.svg",
+    "static/media/About_Image_1.png": "/static/media/About_Image_1.e023a00d177c56f59676.png",
+    "static/media/About_Image_2.png": "/static/media/About_Image_2.b1def91ef6bcd61e0858.png",
+    "static/media/housekeeping.png": "/static/media/housekeeping.b555ed3e76652effebb8.png",
+    "static/media/photography.png": "/static/media/photography.ff4eb87723ae7c39faeb.png",
+    "static/media/ServicesImage2.png": "/static/media/ServicesImage2.4ddc6715ea093922bd56.png",
+    "static/media/Inter-ExtraLight.ttf": "/static/media/Inter-ExtraLight.1815b9a8a67debdb3966.ttf",
+    "static/media/Inter-Light.ttf": "/static/media/Inter-Light.eec8664621fec98efb37.ttf",
+    "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/vetting.png": "/static/media/vetting.3b5d77f8a273a1cc8f9f.png",
+    "static/media/hosting.png": "/static/media/hosting.82b11c20d39d35549fec.png",
+    "static/media/About_Image_3.png": "/static/media/About_Image_3.6cdb85942db9f43b3287.png",
+    "static/media/WorldMap.png": "/static/media/WorldMap.c0995a487dc950da80ad.png",
+    "static/media/ServicesImage.png": "/static/media/ServicesImage.bd821b54a38e845c4ef0.png",
+    "static/media/contact_ar.png": "/static/media/contact_ar.c51c28b435e80b73c1f0.png",
+    "static/media/Section7_Image1.png": "/static/media/Section7_Image1.07cab8705dd77d49d38b.png",
+    "static/media/Section6-image2-ar.png": "/static/media/Section6-image2-ar.9853e335cca33e444fad.png",
+    "static/media/Section6-image2-en.png": "/static/media/Section6-image2-en.63f49990bf7d7812f9a3.png",
+    "static/media/section6-image1-en.png": "/static/media/section6-image1-en.a9a4198751ad7ed39d34.png",
+    "static/media/Section6-image1-ar.png": "/static/media/Section6-image1-ar.ce33ca4e4899f2bbbeac.png",
+    "static/media/Cadiz-Book.otf": "/static/media/Cadiz-Book.fe67b2080d323c67dfb4.otf",
+    "static/media/GE_Thameen_Book.otf": "/static/media/GE_Thameen_Book.df5deb6e156d03b2a2bd.otf",
+    "static/media/ShapeWhite.png": "/static/media/ShapeWhite.d4ef8755151f37828ac3.png",
+    "index.html": "/index.html",
+    "main.13e55f77.css.map": "/static/css/main.13e55f77.css.map",
+    "main.2c445449.js.map": "/static/js/main.2c445449.js.map",
+    "787.36d54bfe.chunk.js.map": "/static/js/787.36d54bfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13e55f77.css",
+    "static/js/main.2c445449.js"
+  ]
+}
