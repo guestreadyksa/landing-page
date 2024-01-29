@@ -35,11 +35,22 @@
   <!-- End Google Tag Manager -->
 
   <!-- Your new button and script -->
-  <button class="involveme_popup" data-project="whats-your-interior-design-style" data-embed-mode="sidePanel"
-    data-trigger-event="button" data-popup-size="medium" data-organization-url="https://guestreadyksa.involve.me"
-    data-button-color="#2679ff" data-position="right" data-loadcolor="#FEEBE5FF">اختبار انماط التصميم</button>
+<script src="https://guestreadyksa.involve.me/embed?type=popup"></script>
 
-  <script src="https://guestreadyksa.involve.me/embed?type=popup"></script>
+<script>
+    involvemeEmbedPopup.createTriggerEvent({
+        projectUrl: "whats-your-interior-design-style",
+        organizationUrl: "https://guestreadyksa.involve.me",
+        embedMode: "sidePanel",
+        triggerEvent: "fixedButton",
+        popupSize: "medium",
+        buttonTextColor: "#FFFFFF",
+        buttonColor: "#71192F",
+        icon: "help",
+        position: "right",
+        buttonText: "اختبار انماط التصميم",
+    })
+</script>
   <!-- End of new code -->
 
   <!-- Google Tag Manager (noscript) -->
